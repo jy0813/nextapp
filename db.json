@@ -1,0 +1,66 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "html",
+      "body": "html is..."
+    },
+    {
+      "id": 2,
+      "title": "css",
+      "body": "css is..."
+    },
+    {
+      "title": "javascript",
+      "body": "javascript is...",
+      "id": 3
+    },
+    {
+      "title": "React",
+      "body": "react is...",
+      "id": 4
+    },
+    {
+      "title": "Next",
+      "body": "next is...",
+      "id": 5
+    },
+    {
+      "title": "cache",
+      "body": "cache is...",
+      "id": 6
+    },
+    {
+      "title": "revalidate",
+      "body": "revalidate is...",
+      "id": 7
+    },
+    {
+      "title": "refresh",
+      "body": "refresh is...",
+      "id": 8
+    },
+    {
+      "title": "component",
+      "body": "component is...",
+      "id": 9
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
